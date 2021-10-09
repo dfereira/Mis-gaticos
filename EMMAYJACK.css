@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Rock Salt', cursive;
+    text-align: center;
+    background-color: rgb(216, 27, 143);
+    color: white;
+    margin: 0;
+    padding: 34px;}
+
+img#imagenprincipal {
+    width: 22%;
+    height: 21%;
+    border-radius: 85px;
+    position: relative;
+    left: 39%;
+}
+img#emma {
+    width: 22%;
+    height: 21%;
+    border-radius: 85px;
+    position: relative;
+    left: -22%;
+}
+
+img#jack {
+    width: 22%;
+    height: 21%;
+    border-radius: 85px;
+    position: relative;
+    left: 29%;
+}                     
+.cajitas {
+    background-color: azure;
+    border-radius: 13%;
+    border: inset;
+    font-family: monospace;
+    font-size: x-large;
+    font-style: oblique;
+    color: #103c36;
+}
+span.infobasica
+{font-family: 'Staatliches', cursive;}
+
+input#buscar {
+    BORDER: double;
+    BACKGROUND: black;
+    color: darkgray;
+}
+div#informacionbasica {
+    text-align: center;
+    margin: 40px;
+}
